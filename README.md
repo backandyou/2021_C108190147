@@ -70,7 +70,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 # python code
 
-```python
+```
 s="Python syntax highlighting"
 print s
 ```
