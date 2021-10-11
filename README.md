@@ -114,3 +114,5 @@ raw Markdown line up prettily. You can also use inline Markdown.
 |   9   |    系統測試    |  25   |   6   |
 |  10   |   使用者訓練   |  20   |  7,8  |
 |  11   |   使用者測試   |  25   | 9,10  |
+
+![img](https://github.com/backandyou/2021_C108190147/blob/main/%E7%94%98%E7%89%B9%E5%9C%96.png "img") 
